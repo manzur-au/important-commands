@@ -27,3 +27,5 @@ $ git commit -m 'Initial project version'
 
 Clone this Repo:
 $ git clone https://github.com/manzur-au/important-commands.git
+
+git remote add origin 'https://github.com/manzur-au/important-commands.git'
