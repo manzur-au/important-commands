@@ -28,4 +28,15 @@ $ git commit -m 'Initial project version'
 Clone this Repo:
 $ git clone https://github.com/manzur-au/important-commands.git
 
-git remote add origin 'https://github.com/manzur-au/important-commands.git'
+Add remote repo:
+git remote add important-commands https://github.com/manzur-au/important-commands.git
+
+Check remote
+Git remote
+
+Now, connect the remote repository to the local directory by entering the following command.
+git pull origin master
+
+Push and use auth key:
+ git push -u important-commands main 
+
